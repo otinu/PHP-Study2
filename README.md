@@ -5,5 +5,4 @@
 [PHP 7/8 プログラミング マスター講座](https://www.udemy.com/course/php-master/)
 
 【環境】
-**MAMP**
 - PHP(8.0.9)
