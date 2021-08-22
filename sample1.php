@@ -1,3 +1,4 @@
 <?php
-print("Hello World");
+print 'HelloWorld　　';
+echo 'Hello ', ' World';
 ?>
